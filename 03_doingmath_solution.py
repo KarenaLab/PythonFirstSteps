@@ -27,11 +27,13 @@ numero = 2
 exponente = 3
 resultado = numero ** exponente
 print(resultado)
+print("")
 
 
 # Calcule a expressão 425,24 * (1 + (13,87 / 100)) ^ 29
 pf28 = (735.35 * (1 + (1.1 / 100)) ** 29)
 print(pf28)
+print("")
 
 
 # Informe o resto da divisão de 16 por 3
@@ -40,3 +42,6 @@ print(f"O resto da divisão 16 por 3 é {x}")
 
 
 # Calcule a raiz quadrada de 16
+x = 16 ** (1/2)
+print(f"A raiz quadrada de 16 é {x}")
+
