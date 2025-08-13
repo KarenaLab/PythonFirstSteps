@@ -4,7 +4,6 @@ x = 1 + 1
 print(x)
 
 
-
 # Calcule 60 - 3
 
 
